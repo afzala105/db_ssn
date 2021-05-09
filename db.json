@@ -6,6 +6,10 @@
   "name" : "guest1",
   "desc" : "percobaan1",
 },
-
+{
+  "id" : 2,
+  "name" : "guest2",
+  "desc" : "percobaan2",
+},
 ]
 }
